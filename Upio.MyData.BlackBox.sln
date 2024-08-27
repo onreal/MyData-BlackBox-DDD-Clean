@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upio.MyData.BlackBox.API", "Upio.MyData.BlackBox.API\Upio.MyData.BlackBox.API.csproj", "{CBBB7C93-9542-4A83-8888-60E0AE2D9DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upio.MyData.BlackBox.Service.Client", "Upio.MyData.BlackBox.Service.Client\Upio.MyData.BlackBox.Service.Client.csproj", "{497D23A9-DBD7-4F50-A2E9-6883A7029DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upio.MyData.BlackBox.Core", "Upio.MyData.BlackBox.Core\Upio.MyData.BlackBox.Core.csproj", "{5BD61EA1-35C5-44DD-94A4-D31D1E5D155C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upio.MyData.BlackBox.Application", "Upio.MyData.BlackBox.Application\Upio.MyData.BlackBox.Application.csproj", "{231ED388-7D94-46A8-8815-E8987894A3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upio.MyData.BlackBox.Infrastructure", "Upio.MyData.BlackBox.Infrastructure\Upio.MyData.BlackBox.Infrastructure.csproj", "{5A1F14CC-876A-4E00-9C82-95E9BDF81CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBB7C93-9542-4A83-8888-60E0AE2D9DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBB7C93-9542-4A83-8888-60E0AE2D9DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBB7C93-9542-4A83-8888-60E0AE2D9DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBB7C93-9542-4A83-8888-60E0AE2D9DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497D23A9-DBD7-4F50-A2E9-6883A7029DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497D23A9-DBD7-4F50-A2E9-6883A7029DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497D23A9-DBD7-4F50-A2E9-6883A7029DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497D23A9-DBD7-4F50-A2E9-6883A7029DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD61EA1-35C5-44DD-94A4-D31D1E5D155C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD61EA1-35C5-44DD-94A4-D31D1E5D155C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD61EA1-35C5-44DD-94A4-D31D1E5D155C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD61EA1-35C5-44DD-94A4-D31D1E5D155C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231ED388-7D94-46A8-8815-E8987894A3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231ED388-7D94-46A8-8815-E8987894A3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231ED388-7D94-46A8-8815-E8987894A3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231ED388-7D94-46A8-8815-E8987894A3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1F14CC-876A-4E00-9C82-95E9BDF81CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1F14CC-876A-4E00-9C82-95E9BDF81CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1F14CC-876A-4E00-9C82-95E9BDF81CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1F14CC-876A-4E00-9C82-95E9BDF81CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

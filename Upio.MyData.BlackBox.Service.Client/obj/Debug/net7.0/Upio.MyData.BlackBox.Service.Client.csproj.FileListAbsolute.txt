@@ -1,0 +1,17 @@
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/bin/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.deps.json
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/bin/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.dll
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/bin/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.pdb
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/bin/Debug/net7.0/Upio.MyData.BlackBox.Core.dll
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/bin/Debug/net7.0/Upio.MyData.BlackBox.Core.pdb
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.xml
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.csproj.AssemblyReference.cache
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.AssemblyInfoInputs.cache
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.AssemblyInfo.cs
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.csproj.CoreCompileInputs.cache
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.csproj.CopyComplete
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.dll
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/refint/Upio.MyData.BlackBox.Service.Client.dll
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/Upio.MyData.BlackBox.Service.Client.pdb
+/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Service.Client/obj/Debug/net7.0/ref/Upio.MyData.BlackBox.Service.Client.dll

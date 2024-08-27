@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VqmJzz/ZvTqo0qahhaN+XzZKaDDFURN7JEgBTh0MzHKsJMP3FK5bWbNpXGj/I32GqyE9hEmVkRsvZioRSGB29A==",
+  "success": true,
+  "projectFilePath": "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Core/Upio.MyData.BlackBox.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/another_reality/.nuget/packages/system.codedom/6.0.0/system.codedom.6.0.0.nupkg.sha512",
+    "/Users/another_reality/.nuget/packages/xobjects/9.12.0/xobjects.9.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

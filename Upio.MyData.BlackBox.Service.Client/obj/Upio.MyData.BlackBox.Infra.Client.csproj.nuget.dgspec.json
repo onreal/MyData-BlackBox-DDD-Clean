@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Infra.Client/Upio.MyData.BlackBox.Infra.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Core/Upio.MyData.BlackBox.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Core/Upio.MyData.BlackBox.Core.csproj",
+        "projectName": "Upio.MyData.BlackBox.Core",
+        "projectPath": "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Core/Upio.MyData.BlackBox.Core.csproj",
+        "packagesPath": "/Users/another_reality/.nuget/packages/",
+        "outputPath": "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/another_reality/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/Zt3vYzDj1oyP95uHwIDhVSBrLrqFDBumYnhQDgktZfzcZ5FxfS/api": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "XObjects": {
+              "target": "Package",
+              "version": "[9.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Infra.Client/Upio.MyData.BlackBox.Infra.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Infra.Client/Upio.MyData.BlackBox.Infra.Client.csproj",
+        "projectName": "Upio.MyData.BlackBox.Infra.Client",
+        "projectPath": "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Infra.Client/Upio.MyData.BlackBox.Infra.Client.csproj",
+        "packagesPath": "/Users/another_reality/.nuget/packages/",
+        "outputPath": "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Infra.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/another_reality/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/Zt3vYzDj1oyP95uHwIDhVSBrLrqFDBumYnhQDgktZfzcZ5FxfS/api": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Core/Upio.MyData.BlackBox.Core.csproj": {
+                "projectPath": "/Users/another_reality/Projects/MydataUpio/Upio.MyData.BlackBox/Upio.MyData.BlackBox.Core/Upio.MyData.BlackBox.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.7.1, )"
+            },
+            "XObjects": {
+              "target": "Package",
+              "version": "[9.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
